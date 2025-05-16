@@ -61,3 +61,25 @@ button {
     border-radius: 1em;
     box-shadow: 0 0 10px rgba(255, 212, 212, 0.5);
 }
+
+@media (max-width: 600px) {
+    body {
+        font-size: 16px;
+        padding: 10px;
+        flex-direction: column;
+    }
+
+    #container {
+        max-width: 95%;
+        padding: 1em;
+    }
+
+    button {
+        width: 100%;
+        font-size: 1em;
+    }
+
+    h2 {
+        font-size: 2em;
+    }
+}
