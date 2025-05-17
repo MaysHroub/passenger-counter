@@ -16,3 +16,7 @@ This was the first part of 'Learn JavaScript' course by Scrimba and it covered t
 - how to deploy using [netlify](https://www.netlify.com/)
 
 You can access the link of the course [here](https://scrimba.com/learn-javascript-c0v)!
+
+<br>
+
+![image](https://github.com/user-attachments/assets/cb230f5b-c1e7-4848-8c54-1836c7d68d29)
